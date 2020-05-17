@@ -19,4 +19,4 @@ Assigns all values of one polynomial to other.
 8. print() -
 Prints all the terms (only terms with non zero coefficients are to be printed) in increasing order of degree.
 Print pattern for a single term : <coefficient>"x"<degree>
-And multiple terms should be printed separated by space. And after printing one polynomial, print new line. For more clarity, refer sample test cases
+
